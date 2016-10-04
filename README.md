@@ -72,7 +72,7 @@ Zoom.ོQuiet 15:17
 
 4. 开发人员:
       * 自愿加入.
-      * [项目地址](https://github.com/YixuanFranco/yourboyfriend)
+      * [项目地址](https://github.com/YixuanFranco/yourGirlFriend)
       * 盈利模式: 按功能项收费.
 
 5. 开发目标.
