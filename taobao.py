@@ -10,4 +10,5 @@ for i in keywords:
 	url += i + "+"
 url = url[:-1] 
 subprocess.call(["open",url])
-
+for i in keywords:
+	url += i + "+"
