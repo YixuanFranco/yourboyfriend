@@ -11,3 +11,7 @@ for i in keywords:
 url = url[:-1] 
 subprocess.call(["open",url])
 
+def autopay(self):
+	pass
+
+
